@@ -1,5 +1,5 @@
  <h1 align="center">
-  <img alt="DataMinersLogo" title="#DataMinersLogo" src="https://raw.githubusercontent.com/RodrigoMarasco/AC_OPE_COVID19/main/Thumbs/Logo_DataMiners.png" />
+  <img alt="DataMinersLogo" title="#DataMinersLogo" src="https://raw.githubusercontent.com/RodrigoMarasco/AC_OPE_COVID19/main/Thumbs/Logo_DataMiners_Atualizado.png" />
 </h1>
 <h1 align="center"> DATAMINERS - Oficia Projeto Empresa 2021 - Covid19 </h1>
 
