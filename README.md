@@ -3,31 +3,28 @@
 </h1>
 <h1 align="center"> DATAMINERS - Oficia Projeto Empresa 2021 - Covid19 </h1>
 
-<p align="center">Análise de Dados sobre a COVID 19</p>
+<p align="center">AnÃ¡lise de Dados sobre a COVID 19</p>
 
 
 <h4 align="center"> 
-	??  Status do Projeto ?? Em construção...  ??
+	ðŸš§  Status do Projeto ðŸš€ Em construÃ§Ã£o...  ðŸš§
 </h4>
 
----
-### ?? Tecnologias
+### ðŸ›  Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construÃ§Ã£o do projeto:
 
 - [Power BI](https://powerbi.microsoft.com/pt-br/)
 - [Git](https://git-scm.com/downloads)
 - [Illustrator CC](https://www.adobe.com/br/products/illustrator/free-trial-download.html)
 
 ---
-### ?? Nota
+### ðŸ“œ Nota
 
-Nos dias 16/12 e 20/12, o Estado de SP foi novamente impossibilitado de fazer o processamento total de dados de Covid-19 devido a novas falhas no sistema SIVEP do Ministério da Saúde, impactando a atualização dos casos e óbitos nesta data. A variação atípica de casos e óbitos entre 06/11 e 10/11 e em óbitos em 13/11 ocorreu em virtude de problemas técnicos no sistema federal de notificação sobre Covid-19. 
+Nos dias 16/12 e 20/12, o Estado de SP foi novamente impossibilitado de fazer o processamento total de dados de Covid-19 devido a novas falhas no sistema SIVEP do MinistÃ©rio da SaÃºde, impactando a atualizaÃ§Ã£o dos casos e Ã³bitos nesta data. A variaÃ§Ã£o atÃ­pica de casos e Ã³bitos entre 06/11 e 10/11 e em Ã³bitos em 13/11 ocorreu em virtude de problemas tÃ©cnicos no sistema federal de notificaÃ§Ã£o sobre Covid-19. 
 
-A partir de 13/08, a confirmação de casos e óbitos passa a seguir as novas diretrizes do Ministério da Saúde aos estados e municípios, que prevê confirmação clínica para COVID-19. Isso explica o aumento no número de óbitos em 13/08, quando foram acrescidos 221 óbitos que ocorreram durante toda a epidemia, seguindo as novas diretrizes do órgão federal. 
-Os dados de casos apresentam variação atípica entre 16/jun e 19/jun em virtude de ajustes no sistema e-SUS. 
+A partir de 13/08, a confirmaÃ§Ã£o de casos e Ã³bitos passa a seguir as novas diretrizes do MinistÃ©rio da SaÃºde aos estados e municÃ­pios, que prevÃª confirmaÃ§Ã£o clÃ­nica para COVID-19. Isso explica o aumento no nÅ“mero de Ã³bitos em 13/08, quando foram acrescidos 221 Ã³bitos que ocorreram durante toda a epidemia, seguindo as novas diretrizes do Ã³rgÃ£o federal. 
+Os dados de casos apresentam variaÃ§Ã£o atÃ­pica entre 16/jun e 19/jun em virtude de ajustes no sistema e-SUS. 
 
-Fontes: Centro de Vigilância Epidemiológica (CVE); Coordenadoria de Controle de Doenças (CCD); Secretaria de Estado da Saúde (SES). *Fontes: SES; Conselho Nacional de Secretários de Saúde (CONASS); Johns Hopkins CSSE. Gráfico em escala logarítmica. Veja notas, variáveis e cálculos em Metodologia (PDF para download abaixo). **As taxas de ocupação referem-se à média móvel de 7 dias. ***Dados de 22/05/2021.
-
-
+Fontes: Centro de VigilÃ¢ncia EpidemiolÃ³gica (CVE); Coordenadoria de Controle de DoenÃ§as (CCD); Secretaria de Estado da SaÃºde (SES). *Fontes: SES; Conselho Nacional de SecretÃ¡rios de SaÃºde (CONASS); Johns Hopkins CSSE. GrÃ¡fico em escala logarÃ­tmica. Veja notas, variÃ¡veis e cÃ¡lculos em Metodologia. **As taxas de ocupaÃ§Ã£o referem-se Ã  mÃ©dia mÃ³vel de 7 dias. ***Dados de 22/05/2021.
 
